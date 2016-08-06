@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LedBear", "LedBear\LedBear.cproj", "{43CDB54A-11F6-476D-A793-E05C94D2E99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CDB54A-11F6-476D-A793-E05C94D2E99B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{43CDB54A-11F6-476D-A793-E05C94D2E99B}.Debug|AVR.Build.0 = Debug|AVR
+		{43CDB54A-11F6-476D-A793-E05C94D2E99B}.Release|AVR.ActiveCfg = Release|AVR
+		{43CDB54A-11F6-476D-A793-E05C94D2E99B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
