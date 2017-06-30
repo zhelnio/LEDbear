@@ -1,4 +1,10 @@
 # LEDbear
-just a simple RGB LED toy
+Just a simple RGB LED toy
 
-The description is under construction
+**Schematic**
+
+![Schematic](/eagle/ledBear/sch.png?raw=true "Schematic")
+
+**Board**
+
+![Board](/eagle/ledBear/brd.png?raw=true "Board")
